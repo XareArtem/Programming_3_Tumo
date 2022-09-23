@@ -1,0 +1,22 @@
+{
+  "name": "programming_3_tumo",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XareArtem/Programming_3_Tumo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XareArtem/Programming_3_Tumo/issues"
+  },
+  "homepage": "https://github.com/XareArtem/Programming_3_Tumo#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
